@@ -42,6 +42,9 @@ data[:10]
         vertical-align: top;
     }
 </style>
+</div>
+
+<div>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
